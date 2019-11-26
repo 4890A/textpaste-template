@@ -5,4 +5,4 @@ function count_p() {
     }
 }
 
-var intervalID = setInterval(count_p, 2000)
+var intervalID = setInterval(count_p, 300)
